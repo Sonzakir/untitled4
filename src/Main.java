@@ -12,6 +12,7 @@ public class Main {
         {
             if(mylist.get(i)>maximum)
             {
+                System.out.println("x");
                 index=i;
                 maximum=mylist.get(i);
             }
